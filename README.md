@@ -3,44 +3,40 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Boukar%C3%A9%20GANAME&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Burkina%20Faso&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" width="100%" />
 </p>
 
-<!-- ──────────── PHOTO + INTRO ──────────── -->
-<table border="0" align="center">
-  <tr>
-    <td width="35%" align="center">
-      <a href="https://mon-portfolio-sigma-umber.vercel.app">
-        <img src="https://github.com/boukareganame.png" width="200" alt="Boukaré GANAME" />
-      </a>
-    </td>
-    <td width="65%" valign="middle">
-      <a href="https://readme-typing-svg.demolab.com">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&width=520&lines=Hi%2C+I'm+Boukar%C3%A9+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack;Rails+%E2%80%A2+Django+%E2%80%A2+Next.js;R%C3%A9cent+dipl%C3%B4m%C3%A9+en+Licence+Informatique;En+route+vers+le+Master" alt="Typing intro" />
-      </a>
-      <br/><br/>
-      <a href="https://mon-portfolio-sigma-umber.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-      </a>
-      <a href="https://www.linkedin.com/in/boukar%C3%A9-ganame-1302b3394">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:boukarganame@yahoo.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://github.com/boukareganame">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=boukareganame&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
-    </td>
-  </tr>
-</table>
+<!-- ──────────── TYPING SUBTITLE ──────────── -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeur+Full-Stack;Rails+%E2%80%A2+Django+%E2%80%A2+Next.js;R%C3%A9cent+dipl%C3%B4m%C3%A9+en+Licence+Informatique;En+route+vers+le+Master" alt="Typing intro" />
+  </a>
+</p>
+
+<!-- ──────────── SOCIAL BADGES ──────────── -->
+<p align="center">
+  <a href="https://mon-portfolio-sigma-umber.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/boukar%C3%A9-ganame-1302b3394">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:boukarganame@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/boukareganame">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boukareganame&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
 
 <!-- ──────────── À PROPOS ──────────── -->
-## 🧭 À propos
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Compass/3D/compass_3d.png" width="32" align="center" /> À propos
 
 Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de terminer ma **Licence en Informatique** et je m'apprête à entamer un **Master**. Je conçois des applications web complètes — du modèle de données à l'interface — avec une attention particulière pour la qualité du code, l'architecture modulaire et les contextes locaux que la tech peut servir : santé, finance communautaire, éducation.
 
 <!-- ──────────── STACK TECHNIQUE ──────────── -->
-## 🛠️ Stack technique
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="32" align="center" /> Stack technique
 
 <table align="center">
   <tr>
@@ -66,81 +62,82 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
   </tr>
   <tr>
-    <td align="center" colspan="6"><b>Bases de données</b></td>
+    <td align="center" colspan="6"><b>Bases de données & DevOps</b></td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br/>Redis</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /><br/>SQLite</td>
-    <td colspan="2"></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><b>DevOps & Outils</b></td>
-  </tr>
-  <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/>Docker</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/>Git</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br/>Linux</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /><br/>Bash</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/>VS Code</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br/>Figma</td>
   </tr>
 </table>
 
 <!-- ──────────── PROJETS PHARES ──────────── -->
-## 🚀 Projets en vedette
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" align="center" /> Projets en vedette
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 H-Academy</h3>
+      <h3>H-Academy</h3>
       <p>Plateforme e-learning full-stack en monorepo. <b>API Ruby on Rails</b> + <b>frontend Next.js / TypeScript</b>, orchestré avec <code>pnpm</code> et <code>Turborepo</code>.</p>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" />
+        <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/boukareganame/h-academy-frontend">→ Frontend</a> · <a href="https://github.com/boukareganame/h-academy-api">API</a>
+      <p>
+        <a href="https://github.com/boukareganame/h-academy-frontend">→ Frontend</a> &nbsp;·&nbsp; <a href="https://github.com/boukareganame/h-academy-api">→ API</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Gestion Hôpital</h3>
+      <h3>Gestion Hôpital</h3>
       <p>Système de gestion hospitalière développé en <b>stage</b>. Architecture Django modulaire : caisse, comptes, laboratoire, patients.</p>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       </p>
-      <a href="https://github.com/boukareganame/gestion_hopital">→ Voir le repo</a>
+      <p>
+        <a href="https://github.com/boukareganame/gestion_hopital">→ Voir le repo</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Tontine</h3>
+      <h3>Tontine</h3>
       <p>Numérisation de la <b>tontine</b> — système d'épargne collective rotative ouest-africaine. Application Rails avec Hotwire.</p>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" />
+        <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hotwire-CD0200?style=for-the-badge&logo=hotwire&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/boukareganame/tontine">→ Voir le repo</a>
+      <p>
+        <a href="https://github.com/boukareganame/tontine">→ Voir le repo</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Portfolio personnel</h3>
+      <h3>Portfolio personnel</h3>
       <p>Portfolio en <b>Next.js 16</b> (App Router, Server Components), <b>Tailwind v4</b>, animations <b>Framer Motion</b>. Déployé sur Vercel.</p>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
       </p>
-      <a href="https://mon-portfolio-sigma-umber.vercel.app">→ Voir en ligne</a> · <a href="https://github.com/boukareganame/mon-portfolio">Source</a>
+      <p>
+        <a href="https://mon-portfolio-sigma-umber.vercel.app">→ Voir en ligne</a> &nbsp;·&nbsp; <a href="https://github.com/boukareganame/mon-portfolio">→ Source</a>
+      </p>
     </td>
   </tr>
 </table>
 
 <!-- ──────────── STATS ──────────── -->
-## 📊 GitHub en chiffres
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="32" align="center" /> GitHub en chiffres
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
@@ -156,7 +153,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </p>
 
 <!-- ──────────── TROPHIES ──────────── -->
-## 🏆 Achievements
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="32" align="center" /> Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -165,7 +162,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </p>
 
 <!-- ──────────── CURRENTLY LEARNING ──────────── -->
-## 🌱 Currently learning
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="32" align="center" /> Currently learning
 
 | Domaine | Focus |
 |---|---|
@@ -175,14 +172,14 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 | **Tests** | RSpec, Pytest, Vitest — discipline du test pour du code maintenable |
 
 <!-- ──────────── OUVERT À ──────────── -->
-## 💼 Ouvert à
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="32" align="center" /> Ouvert à
 
-- 📋 **Stages** et premières opportunités professionnelles (alternance Master)
-- 🤝 **Collaborations** open-source ou projets à impact local
-- 💬 **Échanges techniques** — toujours partant pour apprendre et partager
+- **Stages** et premières opportunités professionnelles (alternance Master)
+- **Collaborations** open-source ou projets à impact local
+- **Échanges techniques** — toujours partant pour apprendre et partager
 
 <!-- ──────────── QUOTE ──────────── -->
-## 💬 Du jour
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Speech%20balloon/3D/speech_balloon_3d.png" width="32" align="center" /> Du jour
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />

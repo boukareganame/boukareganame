@@ -108,7 +108,7 @@ J'aime particulièrement les projets qui résolvent un problème concret du cont
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boukareganame&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=boukareganame&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

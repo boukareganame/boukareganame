@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Ruby+on+Rails+%7C+Django+%7C+Next.js;Récent+diplômé+en+Licence+Informatique;En+route+vers+le+Master+🎓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;Ruby+on+Rails+%7C+Django+%7C+Next.js;R%C3%A9cent+dipl%C3%B4m%C3%A9+en+Licence+Informatique;En+route+vers+le+Master" alt="Typing SVG" />
   </a>
 </p>
 
@@ -103,8 +103,8 @@ J'aime particulièrement les projets qui résolvent un problème concret du cont
 ## 📊 Mon activité GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukareganame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukareganame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">

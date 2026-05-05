@@ -31,12 +31,12 @@
 </p>
 
 <!-- ──────────── À PROPOS ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Compass/3D/compass_3d.png" width="32" align="center" /> À propos
+## À propos
 
 Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de terminer ma **Licence en Informatique** et je m'apprête à entamer un **Master**. Je conçois des applications web complètes — du modèle de données à l'interface — avec une attention particulière pour la qualité du code, l'architecture modulaire et les contextes locaux que la tech peut servir : santé, finance communautaire, éducation.
 
 <!-- ──────────── STACK TECHNIQUE ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="32" align="center" /> Stack technique
+## Stack technique
 
 <table align="center">
   <tr>
@@ -75,7 +75,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </table>
 
 <!-- ──────────── PROJETS PHARES ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" align="center" /> Projets en vedette
+## Projets en vedette
 
 <table>
   <tr>
@@ -137,7 +137,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </table>
 
 <!-- ──────────── STATS ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="32" align="center" /> GitHub en chiffres
+## GitHub en chiffres
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
@@ -153,7 +153,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </p>
 
 <!-- ──────────── TROPHIES ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="32" align="center" /> Achievements
+## Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -162,7 +162,7 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 </p>
 
 <!-- ──────────── CURRENTLY LEARNING ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="32" align="center" /> Currently learning
+## Currently learning
 
 | Domaine | Focus |
 |---|---|
@@ -172,14 +172,14 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 | **Tests** | RSpec, Pytest, Vitest — discipline du test pour du code maintenable |
 
 <!-- ──────────── OUVERT À ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="32" align="center" /> Ouvert à
+## Ouvert à
 
 - **Stages** et premières opportunités professionnelles (alternance Master)
 - **Collaborations** open-source ou projets à impact local
 - **Échanges techniques** — toujours partant pour apprendre et partager
 
 <!-- ──────────── QUOTE ──────────── -->
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Speech%20balloon/3D/speech_balloon_3d.png" width="32" align="center" /> Du jour
+## Du jour
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />

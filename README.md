@@ -1,22 +1,20 @@
-<!-- ──────────── HEADER GRADIENT BANNER ──────────── -->
+<!-- ──────────── HEADER ──────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Boukar%C3%A9%20GANAME&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Burkina%20Faso&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Boukar%C3%A9%20GANAME&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20Bobo-Dioulasso%2C%20Burkina%20Faso&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" width="100%" />
 </p>
 
-<!-- ──────────── TYPING SUBTITLE ──────────── -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeur+Full-Stack;Rails+%E2%80%A2+Django+%E2%80%A2+Next.js;R%C3%A9cent+dipl%C3%B4m%C3%A9+en+Licence+Informatique;En+route+vers+le+Master" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=D%C3%A9veloppeur+Full-Stack;FastAPI+%C2%B7+Django+%C2%B7+Rails+%C2%B7+Next.js+%C2%B7+Flutter;Du+cahier+des+charges+%C3%A0+la+production;SaaS+multi-tenant+%C2%B7+offline-first+%C2%B7+bilingue+fr%2Fen" alt="Typing intro" />
   </a>
 </p>
 
-<!-- ──────────── SOCIAL BADGES ──────────── -->
 <p align="center">
   <a href="https://mon-portfolio-sigma-umber.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/boukar%C3%A9-ganame-1302b3394">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:boukarganame@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -26,113 +24,214 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boukareganame&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
-</p>
-
 <!-- ──────────── À PROPOS ──────────── -->
 ## À propos
 
-Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de terminer ma **Licence en Informatique** et je m'apprête à entamer un **Master**. Je conçois des applications web complètes — du modèle de données à l'interface — avec une attention particulière pour la qualité du code, l'architecture modulaire et les contextes locaux que la tech peut servir : santé, finance communautaire, éducation.
+Développeur Full-Stack basé à **Bobo-Dioulasso (Burkina Faso)**, titulaire d'une **licence en informatique** et en préparation du **master**. Je construis des applications complètes — du cahier des charges à la mise en production — pour des organisations bien réelles : un sommet continental de la data, un centre médical, un diplôme inter-universitaire international.
 
-<!-- ──────────── STACK TECHNIQUE ──────────── -->
-## Stack technique
+Trois choses me définissent :
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="6"><b>Frontend</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/>React</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" /><br/>Tailwind</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br/>HTML5</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><b>Backend</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" /><br/>Ruby</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="48" height="48" alt="Rails" /><br/>Rails</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br/>Python</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" /><br/>Django</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/>Node.js</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><b>Bases de données & DevOps</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br/>Redis</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/>Docker</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/>Git</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br/>Linux</td>
-  </tr>
-</table>
+- **Je livre.** La plateforme officielle d'un sommet continental de la data en production, un ERP comptable qui fait tourner la gestion d'un centre médical, la refonte du site d'un DIU porté par deux universités.
+- **Je conçois avant de coder.** Chaque projet démarre par une spécification et des décisions consignées — puis c'est la CI, pas ma bonne volonté, qui fait respecter les règles.
+- **Je code pour mon contexte.** Éducation, santé, finance de terrain : flux de paiement mobile money (Orange Money, LigdiCash — en sandbox), applications offline-first pensées pour une connectivité intermittente, bilinguisme fr/en systématique.
 
-<!-- ──────────── PROJETS PHARES ──────────── -->
-## Projets en vedette
+<!-- ──────────── EN BREF ──────────── -->
+## En bref
+
+- 🚀 **1 plateforme en production** — le site officiel du Grand Salon de la Data en Afrique 2026 ([gsdasummit.org](https://www.gsdasummit.org))
+- 🏥 **1 ERP en usage réel** — comptabilité et trésorerie d'un centre médical, alimenté par ses données 2026
+- 🧪 **Plus de 700 tests automatisés** cumulés — pytest, RSpec, Vitest, Testcontainers, Playwright
+- 🧰 **6 langages** — Python, TypeScript, Ruby, Dart, Java, SQL — et 8 frameworks majeurs, de FastAPI à Flutter
+- 🤝 **Travail en équipe éprouvé** — workflow PR avec branches protégées, revues de code, plus de 60 pull requests fusionnées sur un seul projet
+
+<!-- ──────────── PROJETS CLIENTS ──────────── -->
+## En production, chez de vrais clients
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>H-Academy</h3>
-      <p>Plateforme e-learning full-stack en monorepo. <b>API Ruby on Rails</b> + <b>frontend Next.js / TypeScript</b>, orchestré avec <code>pnpm</code> et <code>Turborepo</code>.</p>
+      <h3>GSDA 2026 — plateforme événementielle</h3>
+      <p><b>En production</b> : plateforme officielle du <b>Grand Salon de la Data en Afrique</b> (Ouagadougou). Monorepo de <b>5 applications</b> : site public bilingue, console admin (24 pages), portails exposant et bénévole, API Express/PostgreSQL.</p>
+      <ul>
+        <li>Accréditations multi-niveaux, badges PDF à QR code, check-in par scan</li>
+        <li>Pipeline d'e-mails asynchrone : BullMQ + Redis, worker séparé, reprises automatiques</li>
+        <li>28 migrations SQL brutes, et une CI qui échoue en cas de dérive du schéma</li>
+        <li>Développée en équipe (4 à 5 développeurs) : plus de 60 pull requests fusionnées, ~31 000 lignes de TypeScript, déploiement Docker sur VPS</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </p>
-      <p>
-        <a href="https://github.com/boukareganame/h-academy-frontend">→ Frontend</a> &nbsp;·&nbsp; <a href="https://github.com/boukareganame/h-academy-api">→ API</a>
-      </p>
+      <p><a href="https://www.gsdasummit.org">→ Voir le site en ligne</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Gestion Hôpital</h3>
-      <p>Système de gestion hospitalière développé en <b>stage</b>. Architecture Django modulaire : caisse, comptes, laboratoire, patients.</p>
+      <h3>COMPTA Ibn Nafis — ERP de gestion</h3>
+      <p><b>En usage chez le client</b> : remplace <b>plus de 100 fichiers Excel</b> d'un centre médical (trésorerie, salaires, prêts, créances, factures fournisseurs) par une application web FastAPI + Next.js, alimentée par ses données 2026.</p>
+      <ul>
+        <li>17 modèles métier : périodes clôturables, brouillard de caisse, registre banque, salaires, prêts</li>
+        <li>Importeurs Excel conçus par rétro-ingénierie des fichiers du client ; exports openpyxl identiques à ses documents</li>
+        <li>Synchronisation automatique de la trésorerie depuis les événements métier — zéro double saisie</li>
+        <li>Lancement en un clic sur le poste Windows d'une utilisatrice non technique</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
-      <p>
-        <a href="https://github.com/boukareganame/gestion_hopital">→ Voir le repo</a>
-      </p>
+      <p><i>Code privé (données client) — démo sur demande</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Tontine</h3>
-      <p>Numérisation de la <b>tontine</b> — système d'épargne collective rotative ouest-africaine. Application Rails avec Hotwire.</p>
+      <h3>DIU Antibiologie — refonte CMS</h3>
+      <p>Refonte complète du site du <b>DIU « Antibiologie et Antibiothérapie en Afrique Subsaharienne »</b> (Université Nazi Boni × Université de Montpellier) : de l'audit de l'ancien WordPress à un CMS <b>Django 5 + Wagtail</b> sur mesure.</p>
+      <ul>
+        <li>Back-office éditorial complet pour une équipe non technique</li>
+        <li>Candidature en ligne : uploads validés, consentement RGPD, anti-spam</li>
+        <li>Migration automatisée et idempotente du contenu de l'ancien site</li>
+        <li>48 tests (pytest-django + factory-boy) ; accessibilité et SEO traités comme des exigences, pas des finitions</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hotwire-CD0200?style=for-the-badge&logo=hotwire&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white" alt="Wagtail" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </p>
+      <p><i>Refonte réalisée, mise en ligne en cours</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gestion Hôpital — SIH (stage)</h3>
+      <p>Système d'information hospitalier développé <b>seul, pendant un stage de 5 mois</b> dans un centre médical : patients, consultations, hospitalisations, laboratoire, caisse.</p>
+      <ul>
+        <li><b>39 modèles Django</b>, 168 routes, 84 commits sur la durée du stage</li>
+        <li>Facturation polymorphe (GenericForeignKey) synchronisée par signaux</li>
+        <li>RBAC maison : 7 rôles, 48 permissions granulaires</li>
+        <li>Sessions de caisse, reçus numérotés, tickets QR code, exports PDF/Excel, tableau de bord analytique</li>
+      </ul>
       <p>
-        <a href="https://github.com/boukareganame/tontine">→ Voir le repo</a>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </p>
+      <p><i>Code sur demande</i></p>
+    </td>
+  </tr>
+</table>
+
+<!-- ──────────── LABORATOIRES ──────────── -->
+## Laboratoires d'architecture
+
+Deux projets personnels d'envergure où j'applique les exigences d'un produit commercial.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>H-Academy — SaaS scolaire multi-tenant</h3>
+      <p>Plateforme de gestion scolaire <b>multi-établissement, en marque blanche et bilingue</b>, construite de zéro sur un plan en 10 phases : web Next.js 15, API FastAPI, mobile Flutter <b>offline-first</b>.</p>
+      <ul>
+        <li><b>174 endpoints</b>, 48 modèles, 39 pages web, <b>283 tests</b> (pytest, Vitest, Flutter)</li>
+        <li>Isolation stricte par <b>schéma PostgreSQL par tenant</b> — fuite cross-tenant identifiée, corrigée et documentée</li>
+        <li>RBAC 100 % dynamique (187 routes protégées), PII chiffrées au repos, journal d'audit immuable par trigger PostgreSQL</li>
+        <li>Conformité RGPD : export art. 15, anonymisation, rétention automatique</li>
+        <li>Synchronisation mobile hors ligne rejouée à la reconnexion, garantie par l'idempotence des API</li>
+        <li>Encaissement mobile money atomique, testé avec 5 paiements simultanés (<code>SELECT FOR UPDATE</code>) ; la CI échoue si une seule clé de traduction fr/en manque</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Portfolio personnel</h3>
-      <p>Portfolio en <b>Next.js 16</b> (App Router, Server Components), <b>Tailwind v4</b>, animations <b>Framer Motion</b>. Déployé sur Vercel.</p>
+      <h3>SteelFlow — ingénierie de plateforme</h3>
+      <p>ERP industriel fictif mené <b>comme un vrai programme d'entreprise</b> : microservices événementiels Spring Boot, front Next.js, et un dépôt <b>GitOps</b> structuré.</p>
+      <ul>
+        <li>3 microservices + starter maison de 6 modules (outbox transactionnel → CDC Debezium → inbox idempotente, démontré par runbook)</li>
+        <li>BFF OIDC <b>écrit à la main</b> (PKCE, session JWE, cookies <code>__Host-</code>) — un test E2E Playwright vérifie qu'aucun jeton n'atteint le navigateur</li>
+        <li>ArchUnit casse le build à la moindre violation de l'architecture hexagonale ; tests d'intégration Testcontainers (PostgreSQL, Kafka, Keycloak — jamais H2)</li>
+        <li>GitOps : Argo CD app-of-apps, politiques Kyverno en mode Enforce, signatures cosign, Keycloak 100 % as-code</li>
+        <li>Gouvernance : <b>11 ADR</b>, Conventional Commits, Renovate, gitleaks</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://mon-portfolio-sigma-umber.vercel.app">→ Voir en ligne</a> &nbsp;·&nbsp; <a href="https://github.com/boukareganame/mon-portfolio">→ Source</a>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+        <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </p>
     </td>
+  </tr>
+</table>
+
+<!-- ──────────── AUTRES PROJETS ──────────── -->
+## Autres projets
+
+<details>
+<summary><b>Six autres projets — RH, mobile, fintech, bots, Android natif</b> (cliquer pour déplier)</summary>
+
+| Projet | Description | Stack |
+|---|---|---|
+| **Stagify** | Plateforme RH de gestion des stagiaires : pointage restreint par plages IP (CIDR multi-site), PDF versionnés de conventions, e-mails transactionnels HTML. 18 modèles, **112 tests**, CI complète, stack Docker de production. Développé à deux en workflow PR. | Next.js 16 · Prisma 7 · Better Auth |
+| **MIA Teacher Companion** | Application Flutter **offline-first** pour les enseignants de la Maison de l'IA (Bobo-Dioulasso) : séances minutées avec chronomètre, contenu 100 % éditable in-app (rôles Firebase), export du curriculum en un fichier. Testée sur appareil physique. | Flutter · Riverpod · Firestore |
+| **Tontine** | Numérisation de l'épargne rotative ouest-africaine : cycles de cotisation, tours de distribution avec contrôle d'éligibilité, adaptateurs de paiement mobile en sandbox. | Rails 8 · PostgreSQL |
+| **Longrich Bot** | Assistant commercial WhatsApp multi-comptes propulsé par l'API Claude : réponses IA avec historique, **scoring de prospects en structured outputs**, tableau de bord d'onboarding sans code. Éprouvé avec de véritables échanges WhatsApp. | Node.js · whatsapp-web.js · Claude API |
+| **HFiles** | Gestionnaire de fichiers Android natif : MVVM + Hilt + Room dès la première ligne, lecteur vidéo gestuel, audio en arrière-plan (Media3/MediaSession). | Java 17 · Android SDK |
+| **H-Academy API (v1)** | Première itération Rails de H-Academy : API multi-tenant par sous-domaine, **environ 305 specs RSpec**, webhooks de paiement mobile signés, bulletins PDF (Prawn). | Rails 8 · RSpec · Pundit |
+
+</details>
+
+<!-- ──────────── MÉTHODE ──────────── -->
+## Méthode d'ingénierie
+
+> Ce qui ne se vérifie pas automatiquement finit par se dégrader. Alors je fais vérifier mes règles par la machine.
+
+1. **Spécifier avant de coder.** Document fondateur, conventions numérotées (C1–C20), décisions d'architecture consignées en ADR — avec leurs *pourquoi* et les écarts assumés.
+2. **Des règles non négociables, que la CI fait respecter.** Parité i18n fr/en bloquante, zéro chaîne en dur, build cassé par ArchUnit à la moindre violation d'architecture, détection de dérive du schéma SQL, gitleaks.
+3. **Tester ce qui casse en conditions réelles.** Concurrence (paiements simultanés sous `SELECT FOR UPDATE`, UPSERT idempotents), intégration contre de véritables services (Testcontainers : PostgreSQL, Kafka, Keycloak — jamais H2), bout en bout avec Playwright.
+4. **L'IA comme instrument d'ingénierie.** Je pilote les assistants IA avec des spécifications séquencées, des conventions vérifiables et des tests d'acceptation par étape — et j'intègre aussi l'IA dans mes produits (scoring de prospects en structured outputs, assistants encadrés par limitation de débit et audit).
+
+<!-- ──────────── STACK ──────────── -->
+## Stack technique
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><b>Backend</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br/>Python</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" /><br/>FastAPI</td>
+    <td align="center" width="90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/44B78B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" height="42" alt="Django" /></picture><br/>Django</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="42" height="42" alt="Rails" /><br/>Rails</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" /><br/>Node.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" /><br/>Spring Boot</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" /><br/>Java</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><b>Frontend & Mobile</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /><br/>TypeScript</td>
+    <td align="center" width="90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" /></picture><br/>Next.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" /><br/>React</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind" /><br/>Tailwind</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" /><br/>Flutter</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" /><br/>Dart</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" /><br/>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><b>Données, DevOps & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" /><br/>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" /><br/>Redis</td>
+    <td align="center" width="90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" height="42" alt="Kafka" /></picture><br/>Kafka</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /><br/>Docker</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" /><br/>Kubernetes</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="42" height="42" alt="Argo CD" /><br/>Argo CD</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" /><br/>CI/CD</td>
   </tr>
 </table>
 
@@ -140,52 +239,22 @@ Développeur Full-Stack basé à **Bobo-Dioulasso, Burkina Faso**. Je viens de t
 ## GitHub en chiffres
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukareganame&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukareganame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=boukareganame&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- ──────────── DISPONIBLE POUR ──────────── -->
+## Disponible pour
+
+- **Alternance / stage de master** — développement full-stack, backend ou ingénierie de plateforme · télétravail complet (UTC+0, journée entièrement alignée sur l'Europe)
+- **Missions freelance** — applications métier, migrations Excel → web, sites institutionnels
+- **Collaborations open-source** ou projets à impact local — éducation, santé, finance communautaire
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boukareganame&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20de%20contribution" alt="Activity Graph" width="100%" />
+  <i>Le meilleur moyen de me connaître reste mon code : explorez mes dépôts — et pour les projets clients privés, demandez-moi une démo.</i>
 </p>
 
-<!-- ──────────── TROPHIES ──────────── -->
-## Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=boukareganame&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- ──────────── CURRENTLY LEARNING ──────────── -->
-## Currently learning
-
-| Domaine | Focus |
-|---|---|
-| **Architecture** | Design patterns avancés, DDD, hexagonal architecture |
-| **DevOps** | Docker en production, CI/CD GitHub Actions, bases Kubernetes |
-| **Cloud** | Fondamentaux AWS (EC2, S3, RDS) — alternatives modernes (Vercel, Fly.io) |
-| **Tests** | RSpec, Pytest, Vitest — discipline du test pour du code maintenable |
-
-<!-- ──────────── OUVERT À ──────────── -->
-## Ouvert à
-
-- **Stages** et premières opportunités professionnelles (alternance Master)
-- **Collaborations** open-source ou projets à impact local
-- **Échanges techniques** — toujours partant pour apprendre et partager
-
-<!-- ──────────── QUOTE ──────────── -->
-## Du jour
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<!-- ──────────── FOOTER GRADIENT ──────────── -->
+<!-- ──────────── FOOTER ──────────── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" alt="Footer" width="100%" />
 </p>

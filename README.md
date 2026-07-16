@@ -17,7 +17,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:boukarganame@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/boukareganame">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -41,7 +41,7 @@ Trois choses me définissent :
 - 🚀 **1 plateforme en production** — le site officiel du Grand Salon de la Data en Afrique 2026 ([gsdasummit.org](https://www.gsdasummit.org))
 - 🏥 **1 ERP en usage réel** — comptabilité et trésorerie d'un centre médical, alimenté par ses données 2026
 - 🧪 **Plus de 700 tests automatisés** cumulés — pytest, RSpec, Vitest, Testcontainers, Playwright
-- 🧰 **6 langages** — Python, TypeScript, Ruby, Dart, Java, SQL — et 8 frameworks majeurs, de FastAPI à Flutter
+- 🧰 **7 langages** — Python, TypeScript, Kotlin, Ruby, Dart, Java, SQL — et une dizaine de frameworks majeurs, de FastAPI à Jetpack Compose
 - 🤝 **Travail en équipe éprouvé** — workflow PR avec branches protégées, revues de code, plus de 60 pull requests fusionnées sur un seul projet
 
 <!-- ──────────── PROJETS CLIENTS ──────────── -->
@@ -122,7 +122,7 @@ Trois choses me définissent :
 <!-- ──────────── LABORATOIRES ──────────── -->
 ## Laboratoires d'architecture
 
-Deux projets personnels d'envergure où j'applique les exigences d'un produit commercial.
+Trois projets personnels d'envergure où j'applique les exigences d'un produit commercial.
 
 <table>
   <tr>
@@ -161,6 +161,40 @@ Deux projets personnels d'envergure où j'applique les exigences d'un produit co
         <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
         <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Kora — gestionnaire de fichiers & lecteur multimédia Android</h3>
+      <p>Application Android <b>native, sans publicité, sans télémétrie, 100 % hors-ligne</b> — pensée pour remplacer <i>Files by Google</i> et les lecteurs tiers par une seule app possédée. Spécifiée par cahier des charges (v1.0), puis livrée <b>lot par lot</b>.</p>
+      <table>
+        <tr>
+          <td width="50%" valign="top">
+            <ul>
+              <li><b>14 modules Gradle</b> (6 <code>core</code> + 7 <code>feature</code>) avec <i>convention plugins</i> maison (<code>build-logic/</code>) — architecture façon <i>Now in Android</i></li>
+              <li><b>6 lots livrés</b> : explorateur, images, audio, vidéo, documents, stockage</li>
+              <li>Explorateur : opérations en file avec gestion de conflits, copie atomique, pause/reprise, corbeille par volume, renommage par lot avec aperçu, SHA-256, favoris épinglés</li>
+              <li>Décisions consignées en <b>ADR</b> ; deux flavors — <code>full</code> (<code>MANAGE_EXTERNAL_STORAGE</code>) et <code>safc</code> (SAF, conforme store)</li>
+            </ul>
+          </td>
+          <td width="50%" valign="top">
+            <ul>
+              <li>Audio/Vidéo <b>Media3</b> : lecture d'arrière-plan (<code>MediaSessionService</code>, focus audio, coupure casque), ExoPlayer plein écran avec gestes, reprise de position par fichier (Room), découpe/extraction M4A/MP4</li>
+              <li>Documents : PDF paginé (mode nuit, reprise), lecteur code avec détection d'encodage, navigation dans archives ZIP/7z/RAR/TAR avec <b>protection zip-slip</b></li>
+              <li>Stockage : cartographie des dossiers, gros fichiers, <b>doublons par empreinte SHA-256</b> (jamais par nom), nettoyage passant toujours par la corbeille</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+        <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
+        <img src="https://img.shields.io/badge/Media3-0F9D58?style=for-the-badge&logo=android&logoColor=white" alt="Media3" />
+        <img src="https://img.shields.io/badge/Hilt-2196F3?style=for-the-badge" alt="Hilt" />
+        <img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge" alt="Room" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
       </p>
     </td>
   </tr>
@@ -220,6 +254,15 @@ Deux projets personnels d'envergure où j'applique les exigences d'un produit co
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" /><br/>Flutter</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" /><br/>Dart</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" /><br/>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><b>Android natif</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" /><br/>Kotlin</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="42" height="42" alt="Jetpack Compose" /><br/>Compose</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" height="42" alt="Android" /><br/>Android</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="42" height="42" alt="Gradle" /><br/>Gradle</td>
   </tr>
   <tr>
     <td align="center" colspan="7"><b>Données, DevOps & Cloud</b></td>
